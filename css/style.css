@@ -1,0 +1,19 @@
+body{
+  background-colour:#f4c842
+}
+h1.a{
+  color:white
+}
+h1.b{
+  color:green
+}
+a{
+  text-decoration: none;
+  color:red;
+background-color: black;
+border-radius: 5px;
+padding:10px;
+}
+img{
+  width:400px;
+}
