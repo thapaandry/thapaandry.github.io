@@ -17,3 +17,17 @@ padding:10px;
 img{
   width:400px;
 }
+table,tr,td{
+  border:1px solid black;
+  border-collapse: collapse;
+
+}
+table{
+  width:100%
+}
+tr.header{
+  background-color:red;
+}
+ul{
+  list-style-type:lower-roman;
+}
