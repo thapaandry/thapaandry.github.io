@@ -46,3 +46,11 @@ div.city{
 div.video{
   padding:0px 10px;
 }
+div.heading{
+  background-color: black;
+  color:white;
+  padding-top: 15px;
+  padding-bottom:15px;
+  font-size: 35px;
+  text-align: center;
+}
