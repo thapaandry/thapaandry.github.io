@@ -54,3 +54,33 @@ div.heading{
   font-size: 35px;
   text-align: center;
 }
+div.footer{
+  background-color: black;
+  color:white;
+  text-align: center;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+div.container{
+  width: 100%;
+  color:white
+}
+div.left{
+  width: 20%;
+  float: left;
+}
+div.content{
+  width: 80%;
+  float: left;
+}
+ul{
+  list-style-type: none;
+
+}
+li{
+  margin: 10px
+}
+p{
+  text-align: justify;
+  padding: 10px;
+}
