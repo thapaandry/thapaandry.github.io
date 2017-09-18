@@ -84,3 +84,13 @@ p{
   text-align: justify;
   padding: 10px;
 }
+form{
+  background-color: red;
+  color:white;
+}
+input,select,textarea{
+  width: 80%;
+}
+input[type=radio]{
+  width: 10%;
+}
